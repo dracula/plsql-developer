@@ -1,6 +1,6 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [PLSQL Developer](https://draculatheme.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [PLSQL Developer](https://draculatheme.com).
 
 ![Screenshot](./screenshot.png)
 
