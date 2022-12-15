@@ -2,7 +2,7 @@
 
 > A dark theme for [PL/SQL Developer](https://draculatheme.com/plsql-developer).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.jpg)
 
 ## Install
 
